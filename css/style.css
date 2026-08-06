@@ -165,7 +165,7 @@ color:var(--muted)}
     position:relative;
     min-height:520px;
     overflow:hidden;
-    background:#000;
+    background:url("../assets/hero.jpg") center/cover no-repeat;
 }
 .hero-image video{
     position:absolute;
